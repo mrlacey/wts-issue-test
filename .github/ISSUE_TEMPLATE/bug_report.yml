@@ -34,7 +34,7 @@ body:
   attributes:
     label: About your setup
     description: Please provide the following to help 
-    value: "- VS Version:  \n
+    value: "- Visual Studio Version:  \n
 - WinTS Wizard Version: \n
 - WinTS Template Version: \n
 - Windows Build: "
