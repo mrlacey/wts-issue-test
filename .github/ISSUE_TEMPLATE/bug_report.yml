@@ -19,7 +19,7 @@ body:
 - type: textarea
   attributes:
     label: Additional information
-    description: If applicable, add screenshots any other context to help explain your problem. -->
+    description: If applicable, add screenshots or any other context to help explain the situation.
 
 - type: checkboxes
   id: platforms
