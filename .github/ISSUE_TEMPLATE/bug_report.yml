@@ -12,7 +12,7 @@ body:
   attributes:
     label: To Reproduce
     description: "Steps to reproduce the behavior:"
-    value: "1. Go to '...'\n
+    value: " 1. Go to '...'\n
 2. Click on '....'\n
 3. Scroll down to '....'\n
 4. See error"
@@ -34,7 +34,7 @@ body:
   attributes:
     label: About your setup
     description: Please provide the following to help us investigate.
-    value: "- Visual Studio Version:  \n
+    value: " - Visual Studio Version:  \n
 - WinTS Wizard Version: \n
 - WinTS Template Version: \n
 - Windows Build: "
