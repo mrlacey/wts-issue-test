@@ -33,7 +33,7 @@ body:
 - type: textarea
   attributes:
     label: About your setup
-    description: Please provide the following to help 
+    description: Please provide the following to help us investigate.
     value: "- Visual Studio Version:  \n
 - WinTS Wizard Version: \n
 - WinTS Template Version: \n
